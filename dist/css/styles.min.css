@@ -83,6 +83,7 @@
 }
 .header__nav-list {
   display: flex;
+  flex-direction: row;
 }
 .header__nav-list-item {
   margin: 0px 10px;
