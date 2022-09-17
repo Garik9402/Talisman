@@ -66,6 +66,7 @@
 
 .wrapper-content {
   width: 100%;
+  min-height: 100vw;
 }
 
 .header {
